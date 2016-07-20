@@ -1,2 +1,2 @@
 # toDo-list
-Todo list built with jQuery 
+Todo list built with jQuery. To add new item to list user will press the plus next to the ToDo title, in which input box will appear. After user types new toDo item in input the enter key will add it to list. When user hovers over list item transition will occur showing "trash icon" to delete item from list. User also has option to click on list item to put a line through item instead of deleting item.
